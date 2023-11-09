@@ -42,23 +42,18 @@ const vi = {
     intro: {
       header: "Xin chào, Mình là TBFTTH",
       description:
-        "Mình hiện tại đang là một Lập Trình Viên Fullstack. Đây là một website mình tạo ra với mong muốn được chia sẻ kiến thức của mình đến với mọi người. Cảm ơn mọi người đã ghé qua. ❤️",
+        "Mình hiện tại đang là một bác sĩ. Đây là một website mình tạo ra với mong muốn được chia sẻ kiến thức của mình đến với mọi người. Cảm ơn mọi người đã ghé qua. ❤️",
       image: "/assets/images/orion-nebula.jpg",
       links: [
         {
-          icon: "HiOutlineNewspaper",
-          title: "Resume",
-          link: "https://github.com/howznguyen/my-resume/blob/main/pdf/cv_en_vi_howznguyen.pdf",
-        },
-        {
           icon: "FaFacebook",
           title: "howznguyen",
-          link: "https://facebook.com/howznguyen/",
+          link: "https://facebook.com/tbftth/",
         },
         {
           icon: "FaGithub",
-          title: "howznguyen",
-          link: "https://github.com/howznguyen",
+          title: "tbftth",
+          link: "https://github.com/tbftth",
         },
       ],
     },
