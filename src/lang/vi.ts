@@ -48,7 +48,7 @@ const vi = {
   },
   home: {
     intro: {
-      header: "Xin chào, Mình là Howz Nguyễn",
+      header: "Xin chào, Mình là TBFTTH",
       description:
         "Mình hiện tại đang là một Lập Trình Viên Fullstack. Đây là một website mình tạo ra với mong muốn được chia sẻ kiến thức của mình đến với mọi người. Cảm ơn mọi người đã ghé qua. ❤️",
       image: "/assets/images/orion-nebula.jpg",
@@ -74,22 +74,16 @@ const vi = {
     read_more: "Xem thêm",
     categories: [
       {
-        name: "Kiến thức",
+        name: "Kích hoạt phần mềm",
         description:
-          "Các bài viết liên quan về kiến thức lập trình và thuật toán.",
-        value: ["code", "algorithm"],
+          "Các bài viết liên quan về cách active phần mềm bản quyền miễn phí.",
+        value: ["key"],
       },
       {
-        name: "Tutorial & Tips",
+        name: "Thủ thuật y khoa 4.0",
         description:
-          "Các bài viết hướng dẫn hoặc mẹo về lập trình và công nghệ.",
-        value: ["tutorial", "tip"],
-      },
-      {
-        name: "Notion",
-        description:
-          "Các bài viết có nội dung về Notion và các tiện ích xung quanh Notion.",
-        value: ["notion"],
+          "Các bài viết hướng dẫn ứng dụng CNTT trong y khoa.",
+        value: ["medical"],
       },
       {
         name: "Khác",
