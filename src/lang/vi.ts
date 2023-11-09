@@ -22,23 +22,15 @@ const vi = {
     social_networks: [
       {
         icon: "SiGmail",
-        link: "mailto:duyntp2000@gmail.com",
-      },
-      {
-        icon: "SiLinkedin",
-        link: "https://www.linkedin.com/in/duyntp2000/",
+        link: "mailto:tbftth@duck.com",
       },
       {
         icon: "SiGithub",
-        link: "https://github.com/howznguyen",
-      },
-      {
-        icon: "SiGitlab",
-        link: "https://gitlab.com/howznguyen",
+        link: "https://github.com/tbftth",
       },
       {
         icon: "SiFacebook",
-        link: "https://www.facebook.com/howznguyen",
+        link: "https://www.facebook.com/tbftth",
       },
       
     ],
